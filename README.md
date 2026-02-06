@@ -3,7 +3,7 @@
 Hi there! 👋 I'm **Shubhang Trivedi**, a tech enthusiast who loves building real-world software and exploring new technologies.  
 I enjoy writing backend logic, working with APIs, and building data-centric applications that solve practical problems.
 
-I like experimenting with systems, automation, and intelligent applications — learning by building, breaking, and improving.
+I like experimenting with systems, automation, and intelligent applications - learning by building, breaking, and improving.
 
 ---
 
@@ -57,6 +57,3 @@ Let’s connect, build cool stuff, and ship solutions 🚀
 ---
 
 ## 📊 GitHub Stats
-
-![Shubhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST4113&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ST4113&layout=compact&theme=tokyonight)
