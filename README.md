@@ -1,131 +1,248 @@
-<!-- Profile README for github.com/ST4113 -->
+<!-- Shubhang Trivedi | GitHub Profile README -->
 
 <div align="center">
 
-# Shubhang Trivedi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,45:164e63,100:0e7490&height=220&section=header&text=Shubhang%20Trivedi&fontSize=52&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Project%20Coordinator&descAlignY=58&descSize=15&fontColor=ffffff&animation=fadeIn" width="100%" alt="Shubhang Trivedi profile header"/>
 
-### Software Engineer · Full-Stack Developer · Project Coordinator
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1300&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+full-stack+web+applications;PHP+APIs+%7C+SQL+%7C+React+%7C+TypeScript;Turning+business+requirements+into+working+software;Exploring+Python%2C+AI%2FML+%26+data-driven+systems" alt="Typing introduction"/>
 
-Building practical web applications, backend systems, and data-driven solutions.
+<br/><br/>
 
-[LinkedIn](https://www.linkedin.com/in/shubhang-trivedi-969773248/) · [Email](mailto:shubhangtrv@gmail.com) · [Portfolio Projects](#selected-client-projects)
+<a href="https://www.linkedin.com/in/shubhang-trivedi-969773248/"><img src="https://img.shields.io/badge/LinkedIn-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shubhangtrv@gmail.com"><img src="https://img.shields.io/badge/Email-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ST4113"><img src="https://img.shields.io/badge/GitHub-ST4113-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ST4113&label=PROFILE+VIEWS&color=0e7490&style=flat-square" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
 ## About Me
 
-I'm a Computer Engineering graduate with a strong interest in software development, backend engineering, AI/ML, and building products that solve real business problems.
+I'm **Shubhang Trivedi**, a Computer Engineering graduate interested in building useful software across the full development lifecycle — from understanding a business requirement to developing the frontend, backend APIs, database integration and deployment.
 
-My experience spans full-stack development and technical project coordination. I enjoy working across the development lifecycle — understanding requirements, designing solutions, building interfaces and APIs, integrating databases, and coordinating delivery.
+My experience combines **full-stack development** with **technical project coordination**. I enjoy solving practical problems, structuring application workflows and working with teams to move projects from idea to delivery.
 
-- Currently working in **project coordination and technical delivery**.
-- Developing **full-stack web applications**, REST APIs, and database-backed systems.
-- Interested in **Python, Machine Learning, Data Science, and automation**.
-- Experienced with client-facing website projects, deployment, and SEO fundamentals.
-- Interested in the intersection of **engineering, problem-solving, and team coordination**.
+<table>
+<tr>
+<th width="50%">What I Work On</th>
+<th width="50%">What I'm Exploring</th>
+</tr>
+<tr>
+<td valign="top">
+
+- Full-stack business websites
+- Backend APIs and database-driven applications
+- Admin panels and dynamic content management
+- Client project coordination and delivery
+- Website deployment and SEO fundamentals
+
+</td>
+<td valign="top">
+
+- Python and data analysis
+- Machine Learning and AI applications
+- Automation and intelligent systems
+- Backend architecture and API design
+- Cybersecurity and secure development
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Selected Client Projects
 
-A selection of client websites I have designed and developed. The repositories below contain project documentation; client source code is not published in these portfolio repositories.
+These are real client website projects. Their linked GitHub repositories are **portfolio documentation**, not public copies of the clients' source code.  
+DigitalEye is intentionally not included.
 
-### 1. Paras Hi Tech Engineers
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 · Paras Hi Tech Engineers</h3>
+
 **Full-Stack Business Website**
 
-An industrial spare-parts business website with a dynamic product catalogue and an administrative panel for managing product information.
+Industrial machinery and heavy-equipment spare parts catalogue with a dynamic product-management workflow.
 
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** PHP APIs
-- **Database:** SQL
-- **Key work:** Admin panel, dynamic product management, API integration, responsive UI, SEO and deployment.
+**Stack**
 
-[Live Website](https://parashitech.in/) · [Portfolio Repository](https://github.com/ST4113/paras-hi-tech-engineers-website)
+`React` `TypeScript` `Tailwind CSS`  
+`PHP APIs` `SQL Database`
 
-### 2. KEMO Steel Industries
+**Highlights**
+- Backend API development
+- SQL database integration
+- Admin panel for dynamic product management
+- Product catalogue and responsive frontend
+- SEO and deployment
+
+<a href="https://parashitech.in/">Live Website ↗</a> · <a href="https://github.com/ST4113/paras-hi-tech-engineers-website">Project README ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02 · KEMO Steel Industries</h3>
+
 **Corporate Website**
 
-A business website for a steel manufacturer, presenting company information, products, manufacturing capabilities, quality information, and enquiry pathways.
+Corporate web presence for a steel manufacturer, presenting products, manufacturing capabilities, quality information and business enquiries.
 
-- **Technology:** React, TypeScript, Vite, Tailwind CSS
-- **Key work:** Responsive corporate website, product and company information architecture, and deployment.
+**Stack**
 
-[Live Website](https://kemosteels.com/) · [Portfolio Repository](https://github.com/ST4113/kemo-steels)
+`React` `TypeScript` `Vite` `Tailwind CSS`
 
-### 3. M D Jain & Associates
-**Professional Services Website**
+**Highlights**
+- Responsive corporate website
+- Product and company information architecture
+- Manufacturing and quality sections
+- Deployment and SEO foundations
 
-A website for a specialist forensic accounting and fraud advisory practice, presenting its leadership, credentials, services, approach, industries, insights, and confidential enquiry options.
+<a href="https://kemosteels.com/">Live Website ↗</a> · <a href="https://github.com/ST4113/kemo-steels">Project README ↗</a>
 
-- **Technology:** React, TypeScript
-- **Key work:** Professional firm presentation, responsive pages, service structure, credentials and recognition sections, and enquiry pathways.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[Live Website](https://mdjain.in/) · [Portfolio Repository](https://github.com/ST4113/md-jain)
+<h3>03 · M D Jain & Associates</h3>
 
-### 4. Infrasic Intelligence
+**Forensic & Fraud Advisory Website**
+
+Professional website for a specialist practice focused on forensic accounting, fraud investigation and evidence-led advisory.
+
+**Stack**
+
+`React` `TypeScript`
+
+**Highlights**
+- Firm and leadership presentation
+- Services, industries and approach sections
+- Professional credentials and recognition
+- Insights and confidential enquiry pathways
+
+<a href="https://mdjain.in/">Live Website ↗</a> · <a href="https://github.com/ST4113/md-jain">Project README ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04 · Infrasic Intelligence</h3>
+
 **Corporate Website**
 
-A website for a specialist firm working in forensic investigation, financial intelligence, and digital forensics.
+Website for a specialist firm working in forensic investigation, financial intelligence and digital forensics.
 
-- **Technology:** React, TypeScript
-- **Key work:** Business and service presentation, responsive website development, and deployment.
+**Stack**
 
-[Live Website](https://infrasic.in/) · [Portfolio Repository](https://github.com/ST4113/infrasic)
+`React` `TypeScript`
 
----
+**Highlights**
+- Business and service presentation
+- Responsive website development
+- Specialist service information architecture
+- Deployment
 
-## Technical Skills
+<a href="https://infrasic.in/">Live Website ↗</a> · <a href="https://github.com/ST4113/infrasic">Project README ↗</a>
 
-**Languages & Backend**
+</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<br/>
 
-**Frontend & Frameworks**
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-
-**Databases & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-
-**Data, Tools & Workflow**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-
----
-
-## Education
-
-**Bachelor of Engineering — Computer Engineering**  
-Gujarat Technological University (GTU) · 2021–2025  
-CGPA: **7.9 / 10**
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhang-trivedi-969773248/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ST4113)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:shubhangtrv@gmail.com)
-
----
+## Technical Toolkit
 
 <div align="center">
 
-*Building, learning, and improving — one project at a time.*
+**Languages & Backend**  
+<img src="https://skillicons.dev/icons?i=python,php,java,cs,js" alt="Python PHP Java C sharp JavaScript"/>
+
+**Frontend & Frameworks**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite" alt="React Next.js TypeScript Tailwind Vite"/>
+
+**Databases, Cloud & Tools**  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,git,postman,dotnet" alt="MySQL PostgreSQL AWS Git Postman dotnet"/>
+
+**Data & Analytics**  
+<img src="https://skillicons.dev/icons?i=numpy,pandas" alt="NumPy and Pandas"/>
+
+</div>
+
+<br/>
+
+## Areas of Interest
+
+| Area | Focus |
+|:---|:---|
+| Full-Stack Engineering | Frontend applications, backend APIs, database integration |
+| Backend Development | PHP, REST APIs, application logic and data workflows |
+| Data & AI/ML | Python, data analysis, machine learning fundamentals |
+| Project Delivery | Requirement understanding, coordination and execution |
+| Web Operations | Deployment, performance optimisation and SEO fundamentals |
+
+> I enjoy working beyond the interface — understanding how the frontend, APIs, database and administrative workflows fit together to solve the actual business problem.
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ST4113&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST4113&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=ST4113&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ST4113&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+
+</div>
+
+<br/>
+
+## Education
+
+<table>
+<tr>
+<th>Degree</th>
+<th>Institution</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+<tr>
+<td><b>B.E. — Computer Engineering</b></td>
+<td>Gujarat Technological University (GTU)</td>
+<td>2021–2025</td>
+<td><b>7.9 CGPA</b></td>
+</tr>
+</table>
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+I'm interested in opportunities and collaborations involving **software engineering, full-stack development, backend systems, Python and applied AI/ML**.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/shubhang-trivedi-969773248/"><img src="https://img.shields.io/badge/LinkedIn-Shubhang%20Trivedi-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/ST4113"><img src="https://img.shields.io/badge/GitHub-ST4113-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:shubhangtrv@gmail.com"><img src="https://img.shields.io/badge/Email-shubhangtrv%40gmail.com-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+### Open to Software Engineering, Full-Stack Development and Project Collaboration
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:164e63,100:101827&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
