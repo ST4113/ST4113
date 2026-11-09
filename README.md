@@ -8,9 +8,10 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/shubhang-trivedi-969773248/"><img src="https://img.shields.io/badge/LinkedIn-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shubhangtrv@gmail.com"><img src="https://img.shields.io/badge/Email-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/ST4113"><img src="https://img.shields.io/badge/GitHub-ST4113-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/shubhang-trivedi-969773248/"><img src="https://img.shields.io/badge/LINKEDIN-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shubhangtrv@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ST4113"><img src="https://img.shields.io/badge/GITHUB-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/ST4113"><img src="https://img.shields.io/badge/ST4113-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub username"/></a>
 
 <br/><br/>
 
@@ -57,8 +58,7 @@ My experience combines **full-stack development** with **technical project coord
 
 ## Selected Client Projects
 
-These are real client website projects. Their linked GitHub repositories are **portfolio documentation**, not public copies of the clients' source code.  
-DigitalEye is intentionally not included.
+These are real client website projects. Their linked GitHub repositories are **portfolio documentation**, not public copies of the clients' source code. DigitalEye is intentionally not included.
 
 <table>
 <tr>
@@ -193,16 +193,22 @@ Website for a specialist firm working in forensic investigation, financial intel
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ST4113&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST4113&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=ST4113&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics: stars, commits, pull requests, issues and contributions"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ST4113&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=ST4113&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="80%" src="https://streak-stats.demolab.com/?user=ST4113&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-<br/><br/>
+</div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ST4113&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+<br/>
+
+## Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ST4113&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=Shubhang's%20Contribution%20Graph" alt="Shubhang's GitHub contribution graph"/>
 
 </div>
 
@@ -235,9 +241,9 @@ I'm interested in opportunities and collaborations involving **software engineer
 
 <br/>
 
-<a href="https://www.linkedin.com/in/shubhang-trivedi-969773248/"><img src="https://img.shields.io/badge/LinkedIn-Shubhang%20Trivedi-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/ST4113"><img src="https://img.shields.io/badge/GitHub-ST4113-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:shubhangtrv@gmail.com"><img src="https://img.shields.io/badge/Email-shubhangtrv%40gmail.com-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/shubhang-trivedi-969773248/"><img src="https://img.shields.io/badge/LINKEDIN-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/ST4113"><img src="https://img.shields.io/badge/GITHUB-ST4113-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:shubhangtrv@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shubhangtrv%40gmail.com-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
