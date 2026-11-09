@@ -195,15 +195,9 @@ Website for a specialist firm working in forensic investigation, financial intel
 
 <img width="80%" src="https://streak-stats.demolab.com/?user=ST4113&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ST4113&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=Shubhang's%20Contribution%20Graph" alt="Shubhang's GitHub contribution graph"/>
+<img width="100%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=ST4113&theme=tokyo-night&hide_border=true&area=true" alt="Shubhang's GitHub contribution graph"/>
 
 </div>
 
