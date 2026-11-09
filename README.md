@@ -193,11 +193,6 @@ Website for a specialist firm working in forensic investigation, financial intel
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=ST4113&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics: stars, commits, pull requests, issues and contributions"/>
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ST4113&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<br/><br/>
-
 <img width="80%" src="https://streak-stats.demolab.com/?user=ST4113&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
